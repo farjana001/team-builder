@@ -1,0 +1,25 @@
+.team-members{
+    border: 2px solid green;
+    margin: 10px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.img{
+    margin-right: 20px;
+}
+.add{
+    padding: 5px 10px;
+    background-color: green;
+
+}
+.learn{
+    text-decoration: none;
+    color: white;
+}
+.hot-img{
+    width: 250px;
+}
